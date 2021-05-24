@@ -1,0 +1,27 @@
+
+Midterm Project Prototype Link:
+
+https://www.figma.com/proto/vOEm3BDKLuhTul2CptkqM1/udacity-l2-uikit?node-id=254%3A1206&scaling=min-zoom
+
+
+
+Acessibility Changes Link-
+
+https://www.figma.com/file/vOEm3BDKLuhTul2CptkqM1/udacity-l2-uikit?node-id=190%3A4703
+
+
+
+Akternate Version According to KPI link
+
+https://www.figma.com/file/vOEm3BDKLuhTul2CptkqM1/udacity-l2-uikit?node-id=225%3A835
+
+
+
+Zeplin Link
+
+https://zpl.io/aB0keJ0
+
+
+Lookback Session Links and Test Insights in the file - "Test Insights.pdf"
+
+Review of Course 2 in :"Midterm Review.pdf"
